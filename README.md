@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning codding <br>🎯 Goals: Lolos SNBT<br>🎲 Fun fact: I like learning new things</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning codding <br>🎯 Goals: Lolos SNBT<br>🎲 Fun fact: I like learning new things</p>
 
 ###
 
